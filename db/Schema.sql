@@ -33,16 +33,9 @@ use employees_db;
 INSERT INTO department (name) VALUES ('Marketing'), ('Players'), ('TeamCEO'), ('Team Manager');
 INSERT INTO role (title, salary , department_id)
 VALUES ('Manager', 150000, 1), ('Coach', 75000, 1), ('Leader', 100000, 2), ('Team Leader Assistant', 60000, 2), ('Media Specialist', 70000, 3), 
-('Media Specialist', 70000, 3), ('CEO', 5000000, 4), ('CEO Assistant', 2500000, 4);
+('Team Recruiter', 70000, 3), ('CEO', 5000000, 4), ('CEO Assistant', 2500000, 4);
 
 INSERT INTO employee
 (first_name, last_name, role_id, manager_id)
 VALUES
-('James', 'Anh', 1, NULL),
-    ('Karl', 'Malone', 2, 1),
-    ('Monkey', 'Jordan', 3, NULL),
-    ('Kevin', 'Hart', 4, 3),
-    ('Bella', 'Kemp', 5, NULL),
-    ('Jenny', 'Luong', 6, 5),
-    ('Christine', 'Johnson', 7, NULL),
-    ('Stefan', 'Bird', 8, 7);
+('James', 'Anh', 3, NULL),('Banana', 'Malone', 2, 1),('Monkey', 'Mark', 3, NULL),('Kevin', 'Hart', 4, 3),('Bella', 'Kemp', 5, NULL),('Jenny', 'Luong', 6, 5),('Christine', 'Johnson', 7, NULL),('Stefan', 'Bird', 8, 7);
