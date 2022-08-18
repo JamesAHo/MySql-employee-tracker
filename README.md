@@ -37,7 +37,7 @@ When run app, there will be options prompted on the terminal.
 ![landing page demo](./mock/Untitled_%20Aug%2016%2C%202022%2012_36%20PM.gif)
 
 ## Deployment
-Repository: https://github.com/JamesAHo/mySQL-EmployeeDB
+Repository: https://github.com/JamesAHo/MySql-employee-tracker
 
 ## Citing
 
