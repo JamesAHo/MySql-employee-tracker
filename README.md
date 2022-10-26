@@ -11,7 +11,7 @@ SO THAT I can organize and plan my business
 
 ## Description
 
-The purpose of this application is to make it easy to to manage an organization. The logics behind this app was inpired by chdonovan.(Please check Citing for more information)
+The purpose of this application is to make it easy to to manage an organization. 
 
 ## Table of Contents
 
@@ -39,6 +39,3 @@ When run app, there will be options prompted on the terminal.
 ## Deployment
 Repository: https://github.com/JamesAHo/MySql-employee-tracker
 
-## Citing
-
-  chdonovan. (2021, June 12). Employee-TrackerVersion (1.0.0). Retrieved August 17, 2022, from https://github.com/chdonovan/Employee-Tracker. 
